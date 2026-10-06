@@ -168,13 +168,13 @@ Together, the two exercises demonstrate two complementary approaches:
 
 The workshop combines datasets from several external providers. Their original licences and terms of use continue to apply.
 
-- **Flood-depth scenarios** — Myndigheten för samhällsskydd och beredskap (MSB), flood mapping data
+- **Flood-depth scenarios** — Myndigheten för samhällsskydd och beredskap (MSB), flood mapping data. MSB should be cited as the source when the flood-mapping material is reproduced or reused.
 - **Roads and critical facilities** — © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, ODbL
-- **Population data** — Statistics Sweden (SCB)
+- **Population data** — Statistics Sweden (SCB), open data, CC0
 - **Land cover (NMD2018)** — Naturvårdsverket, CC0
 - **Depth–disruption function** — Pregnolato, M., Ford, A., Wilkinson, S. M., & Dawson, R. J. (2017). *The impact of flooding on road transport: A depth-disruption function*. Transportation Research Part D, 55, 67–81.
 
-The **code associated with this workshop is shared under the MIT License**. External datasets retain their respective original licences and terms of use.
+The **code associated with this workshop is shared under the MIT License**. External datasets retain their respective original licences, copyright conditions and terms of use as indicated above.
 
 ---
 
